@@ -1,7 +1,7 @@
 <h1> My Stats </h1>
 <div align="center">
-<img height="180em" position="absolute"  src="https://github-readme-stats.vercel.app/api?user=Heydran&show_icons=true&title_color=A31DE7&text_color=14C3BB&icon_color=A31DE7&border_color=003E40&border_radius=20&bg_color=DEG,000000,003E40">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=A31DE7&text_color=14C3BB&icon_color=A31DE7&border_color=003E40&border_radius=20&bg_color=DEG,000000,003E40">
+<img height="180em" position="absolute"  src="https://github-readme-stats.vercel.app/api?username=Heydran&show_icons=true&title_color=A31DE7&text_color=14C3BB&icon_color=A31DE7&border_color=003E40&border_radius=20&bg_color=DEG,000000,003E40">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heydran&layout=compact&title_color=A31DE7&text_color=14C3BB&icon_color=A31DE7&border_color=003E40&border_radius=20&bg_color=DEG,000000,003E40">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
